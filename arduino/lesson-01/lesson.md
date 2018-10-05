@@ -1,6 +1,6 @@
 ---
 title: Arduino Lesson 1 - Intro to Adruino
-permalink: /teaching/arduino/lesson-01/
+permalink: /teaching/arduino/lesson-01/answers
 layout: lesson
 lesson: arduino
 ---
@@ -29,4 +29,4 @@ lesson: arduino
 1. Upload the sketch and run it
 1. Verify the LED on the device is blinking
 
-[Potential answers to questions above](answers.md)
+# [Potential Answers](answers/)
