@@ -7,26 +7,14 @@ lesson: arduino
 
 # Questions to Ask
 
-### What is an Arduino?
-<details>
-    <summary>Answer</summary>
-     It is a microcontroller kits for building digital devices and interactive objects that can sense and control objects in the physical and digital world.
-</details>
-
-### Explain what senors are and how they work?
-
-### Can you describe a few senors we have around the house?
-
-### Lets look through the arduino bin, can you point out some things you think might be sensors?
-
-### What is an actuator?
-
-### can you think of some actuators we have around the house?
-
-### Lets look through the arduino bin, can you point out some things you think might be actuators?
-
-### If you could build anything using an ardunio, what would you build?
-
+1. What is an Arduino?
+1. Explain what senors are and how they work?
+1. Can you describe a few senors we have around the house?
+1. Lets look through the arduino bin, can you point out some things you think might be sensors?
+1. What is an actuator?
+1. can you think of some actuators we have around the house?
+1. Lets look through the arduino bin, can you point out some things you think might be actuators?
+1. If you could build anything using an ardunio, what would you build?
 - Spend the next 20 mins looking at existing [arduino projects](https://create.arduino.cc/projecthub).  Write down 10 ideas you would like to build.  Don't worry about complexity or how are they may be.  The goal is to write down things that interest you.
 
 # Lab - Setup
