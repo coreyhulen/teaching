@@ -1,6 +1,6 @@
 ---
 title: Arduino Lesson 1 - Intro to Adruino
-permalink: /teaching/arduino/lesson-01/answers
+permalink: /teaching/arduino/lesson-01/
 layout: lesson
 lesson: arduino
 ---
