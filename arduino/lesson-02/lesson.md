@@ -1,16 +1,17 @@
 ---
-title: Arduino Lesson 2 - LEDs
+title: Arduino Lesson 2 - All about LEDs
 permalink: /teaching/arduino/lesson-02/
 layout: lesson
 lesson: arduino
-excerpt: " Lesson2 ~~~ Sometimes it is nice to programmatically run .sql scripts 
-on a MySQL database using Java.  This is easily accomplished using the 
-allowMultiQueries configuration property for the MySQL Connector/J driver.  
-When set to true it allows the use of ‘;’ to delimit multiple queries."
 ---
 
-Lesson File 2
+# Questions to Ask
 
-![Read TPS](cassreadperf1.png)
+1. What does and [LED](https://en.wikipedia.org/wiki/Light-emitting_diode) do?
+1. What does LED stand for?
+1. Can you find LEDs in the parts bin?
+1. Why is one lead longer than the other?
+1. Hook a battery up and show the light only works in 1 direction. Frying the LED since there isn't a resistor.
+1. What does the electronic symbol look like? Can you draw it?
 
-[Test key](test-key.md)
+# [Potential Answers](answers/)
