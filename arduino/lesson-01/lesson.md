@@ -7,7 +7,7 @@ lesson: arduino
 
 # Questions to Ask
 
-1. What is an Arduino?
+1. What is an [Arduino](https://en.wikipedia.org/wiki/Arduino)?
 1. Explain what senors are and how they work?
 1. Can you describe a few senors we have around the house?
 1. Lets look through the arduino bin, can you point out some things you think might be sensors?
