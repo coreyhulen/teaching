@@ -9,4 +9,4 @@ layout: lesson
 1. show the various LEDs, make sure to point out the surface mount LEDs on the arduino boards.
 1. The positive lead is longer
 1. NA
-1.![LED](https://upload.wikimedia.org/wikipedia/commons/e/e5/LED_symbol.svg)
+1. ![LED](https://upload.wikimedia.org/wikipedia/commons/e/e5/LED_symbol.svg)
