@@ -1,8 +1,8 @@
 ---
-title: Arduino Lesson 1 - Intro to AdruinoS
-permalink: /teaching/arduino/lesson-01/
+title: javascript Lesson 1 - Intro to javascript
+permalink: /teaching/javascript/lesson-01/
 layout: lesson
-lesson: arduino
+lesson: javascript
 excerpt: "Sometimes it is nice to programmatically run .sql scripts 
 on a MySQL database using Java.  This is easily accomplished using the 
 allowMultiQueries configuration property for the MySQL Connector/J driver.  

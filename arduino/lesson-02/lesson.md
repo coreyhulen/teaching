@@ -1,15 +1,15 @@
 ---
-title: Arduino Lesson 1 - Intro to AdruinoS
-permalink: /teaching/arduino/lesson-01/
+title: Arduino Lesson 2 - LEDs
+permalink: /teaching/arduino/lesson-02/
 layout: lesson
 lesson: arduino
-excerpt: "Sometimes it is nice to programmatically run .sql scripts 
+excerpt: " Lesson2 ~~~ Sometimes it is nice to programmatically run .sql scripts 
 on a MySQL database using Java.  This is easily accomplished using the 
 allowMultiQueries configuration property for the MySQL Connector/J driver.  
 When set to true it allows the use of ‘;’ to delimit multiple queries."
 ---
 
-Lesson File
+Lesson File 2
 
 ![Read TPS](cassreadperf1.png)
 

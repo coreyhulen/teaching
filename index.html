@@ -1,0 +1,25 @@
+---
+layout: teaching
+permalink: /teaching/index.html
+---
+
+<div class="posts">
+{% for classroom in site.teaching %}
+  {% if classroom.group_by contains "classroom" %}
+    <article class="post">
+        <h1>{{ classroom.title }}</h1>
+        <div class="entry">
+          {{ classroom.excerpt }}
+        </div>
+        {% assign lessons = site.teaching | sort: 'title' %}
+        {% for lesson in lessons %}
+          {% if lesson.lesson contains classroom.lesson and classroom.url != lesson.url %}
+          <div style="margin-left: 50px">
+            <h4><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.title }}</a></h4>
+          </div>
+          {% endif %}
+        {% endfor %}
+    </article>
+  {% endif %}
+{% endfor %}
+</div>
