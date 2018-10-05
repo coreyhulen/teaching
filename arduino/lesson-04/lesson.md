@@ -5,6 +5,8 @@ layout: lesson
 lesson: arduino
 ---
 
+I followed the lesson outlined at [here](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led).
+
 # Questions to Ask
 
 1. Grab an arduino from the parts bin.
