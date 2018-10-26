@@ -1,5 +1,5 @@
 ---
-title: Arduino Lesson 5 - Blinking LED
+title: Arduino Lesson 5 - Blinking Multiple LEDs
 permalink: /teaching/arduino/lesson-05/
 layout: lesson
 lesson: arduino
